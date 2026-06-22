@@ -89,9 +89,7 @@ src/
 
 └── App.vue                # root component
 
----
 
-## 📁 Project Structure
 ---
 
 ## 👨‍💻 Author
